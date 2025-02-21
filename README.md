@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Filip, I'm trying to learn how to code and hope in works out.
 
 <!--
 **Filkatatrynacode/filkatatrynacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
